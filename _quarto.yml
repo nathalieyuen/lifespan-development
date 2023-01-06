@@ -1,0 +1,41 @@
+project:
+  type: book
+
+book:
+  title: "Lifespan Development: A Psychological Perspective"
+  author: "Martha Lally and Suzanne Valentine-French"
+  date: today
+  cover-image: lifespan-development-cover.jpg
+  
+  page-footer:
+    left: |
+      Lifespan Development was written by Martha Lally and Suzanne Valentine-French. Bookdown adaptation by C. Nathalie Yuen
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  repo-url: https://github.com/nathalieyuen/lifespan-development
+  
+  chapters:
+    - index.qmd
+    - 01-introduction.qmd
+    - 02-heredity.qmd
+    - 03-infancy.qmd
+    - 04-early-childhood.qmd
+    - 05-middle-childhood.qmd
+    - 06-adolescence.qmd
+    - 07-emerging-early-adult.qmd
+    - 08-middle-adult.qmd
+    - 09-late-adult.qmd
+    - 10-death-dying.qmd
+    - 11-oer-attribution.qmd
+    
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+
+editor: visual
+
+
+
