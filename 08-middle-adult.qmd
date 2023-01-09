@@ -465,7 +465,7 @@ According to the Office of Disease Prevention and Health Promotion (2008), the f
 **Nutritional concerns:** Aging brings about a reduction in the number of calories a person requires (see Table 8.7 for estimated caloric needs in middle-aged adults). Many Americans respond to weight gain by dieting. However, eating less does not typically mean eating right and people often suffer vitamin and mineral deficiencies as a result. All adults need to be especially cognizant of the amount of sodium, sugar, and fat they are ingesting.
 
 |         |                  |                          |               |                   |                           |                |
-|---------|------------------|--------------------------|---------------|-------------------|---------------------------|----------------|
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |         |                  | **Males**                |               |                   | **Females^\[d\]^**        |                |
 | *Age*   | Sedentary^\[a\]^ | Moderately Active^\[b\]^ | Active^\[c\]^ | Sedentary ^\[a\]^ | Moderately Active ^\[b\]^ | Active ^\[c\]^ |
 | *36-40* | 2400             | 2600                     | 2800          | 1800              | 2000                      | 2200           |
@@ -605,7 +605,21 @@ Emotionally, the middle aged brain is calmer, less neurotic, more capable of man
 ## Cognitive Development in Middle Adulthood
 
 ::: callout-tip
-Learning Objectives: Cognitive Development in Middle Adulthood • Describe crystalized versus fluid intelligence • Describe research from the Seattle Longitudinal Study • Explain the importance of flow to creativity and life satisfaction • Describe how middle adults are turning to college for advanced training • Describe the difference between an expert and a novice • Describe the changes in the U.S. work force, especially among middle adults • Explain the importance of leisure to mental health and a successful retirement
+## Learning Objectives: Cognitive Development in Middle Adulthood
+
+1.  Describe crystalized versus fluid intelligence
+
+2.  Describe research from the Seattle Longitudinal Study
+
+3.  Explain the importance of flow to creativity and life satisfaction
+
+4.  Describe how middle adults are turning to college for advanced training
+
+5.  Describe the difference between an expert and a novice
+
+6.  Describe the changes in the U.S. work force, especially among middle adults
+
+7.  Explain the importance of leisure to mental health and a successful retirement
 :::
 
 ### Crystalized versus Fluid Intelligence
@@ -686,7 +700,7 @@ However, expertise cannot fully make-up for all losses in general cognitive func
 In 2012, 53% of the workforce was male. For both genders and for most age groups the rate of participation in the labor force has declined from 2002 to 2012, and it is projected to decline further by 2022. The exception is among the older middle-age groups (the baby boomers), and especially for women 55 and older.
 
 |                |          |           |            |          |             |            |
-|----------------|----------|-----------|------------|----------|-------------|------------|
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |                |          | **Males** |            |          | **Females** |            |
 |                | **2002** | **2012**  | **2022**\* | **2002** | **2012**    | **2022**\* |
 | **16-19**      | 47.5     | 34        | 27.8       | 47.3     | 34.6        | 26.7       |
@@ -1076,7 +1090,7 @@ In addition to those benefits, Riordan and Griffeth (1995) found that people who
 
 ```
 
-### **Women** in **Midlife**
+### Women in Midlife
 
 In Western society, aging for women is much more stressful than for men as society emphasizes youthful beauty and attractiveness (Slevin, 2010). The description that aging men are viewed as "distinguished" and aging women are viewed as "old" is referred to as the double standard of aging (Teuscher & Teuscher, 2006). Since women have traditionally been valued for their reproductive capabilities, they may be considered old once they are postmenopausal. In contrast, men have traditionally been valued for their achievements, competence and power, and therefore are not considered old until they are physically unable to work (Carroll, 2016). Consequently, women experience more fear, anxiety, and concern about their identity as they age, and may feel pressure to prove themselves as productive and valuable members of society (Bromberger, Kravitz, & Chang, 2013).
 

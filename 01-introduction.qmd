@@ -35,8 +35,11 @@ You will also discover that developmental psychologists investigate key question
 ## Learning Objectives: Lifespan Perspective
 
 1.  Explain the lifespan perspective and its assumptions about development.
+
 2.  Differentiate periods of human development.
+
 3.  Explain the issues underlying lifespan development
+
 4.  Identify the historical and contemporary theories impacting lifespan development
 :::
 
@@ -131,7 +134,7 @@ Those who study lifespan development recognize that chronological age does not c
 ### Periods of Development
 
 |                           |                                                                                                            |
-|---------------------------|------------------------------------------------------------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
 | **Age Period**            | **Description**                                                                                            |
 | Prenatal                  | Starts at conception, continues through implantation in the uterine wall by the embryo, and ends at birth. |
 | Infancy and Toddlerhood   | Starts at birth and continues to two years of age                                                          |
@@ -266,7 +269,7 @@ Erikson (1950) proposed a model of lifespan development that provides a useful g
 However, most individuals are able to successfully complete the eight stages of his theory (See @tbl-01-03).
 
 |                          |                                |                                                                                                                |
-|--------------------------|--------------------------------|----------------------------------------------------------------------------------------------------------------|
+|---------------|---------------|-------------------------------------------|
 | **Age range**            | **Psychosocial crisis**        | **Positive resolution of crisis**                                                                              |
 | Birth to 12 to 18 months | Trust versus Mistrust          | The child develops a feeling of trust in caregivers.                                                           |
 | 18 months to 3 years     | Autonomy versus Shame/Doubt    | The child learns what can and cannot be controlled and develops a sense of free will.                          |
@@ -310,7 +313,7 @@ knitr::include_graphics("https://nobaproject.com/images/shared/images/000/000/37
 **Jean Piaget** (1896-1980) was one of the most influential cognitive theorists in development. He was inspired to explore children's ability to think and reason by watching his own children's development. He was one of the first to recognize and map out the ways in which children's intelligence differs from that of adults (Piaget, 1929). He became interested in this area when he was asked to test the IQ of children and began to notice that there was a pattern in their wrong answers. He believed that children's intellectual skills change over time and that maturation, rather than training, brings about that change. Children of differing ages interpret the world differently. Piaget theorized that children progressed through four stages of cognitive development (see @tbl-01-04).
 
 |                          |                           |                                                                                                                                                                        |                                                        |
-|--------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+|------------|------------|------------------------------------|------------|
 | **Stage**                | **Approximate age range** | **Characteristics**                                                                                                                                                    | **Stage attainments**                                  |
 | **Sensorimotor**         | Birth to about 2 years    | Children experience the world through their fundamental senses of seeing, hearing, touching, and tasting.                                                              | **Object permanence**                                  |
 | **Preoperational**       | 2 to 7 years              | Children acquire the ability to internally represent the world through language and mental imagery. They also start to see the world from other people's perspectives. | **Theory of mind; rapid increase in language ability** |
@@ -486,7 +489,7 @@ A good experiment randomly assigns participants to at least two groups that are 
 Despite the advantage of determining causation, experiments do have limitations. One is that they are often conducted in laboratory situations rather than in the everyday lives of people. Therefore, we do not know whether results that we find in a laboratory setting will necessarily hold up in everyday life. Second, and more important, is that some of the most interesting and key social variables cannot be experimentally manipulated because of ethical concerns. If we want to study the influence of abuse on children's development of depression, these relationships must be assessed using correlational designs because it is simply not ethical to experimentally manipulate these variables. Characteristics of descriptive, correlational, and experimental research designs can be found in @tbl-01-05.
 
 |                     |                                                                                               |                                                                                                                                                             |                                                                                                                      |
-|---------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+|---------------|---------------|-------------------------|------------------|
 | **Research Design** | **Goal**                                                                                      | **Advantages**                                                                                                                                              | **Disadvantages**                                                                                                    |
 | **Descriptive**     | To create a snapshot of the current state of affairs                                          | Provides a relatively complete picture of what is occurring at a given time. Allows the development of questions for further study.                         | Does not assess relationships among variables. May be unethical if participants do not know they are being observed. |
 | **Correlational**   | To assess the relationships between and among two or more variables                           | Allows testing of expected relationships between and among variables and the making of predictions. Can assess these relationships in everyday life events. | Cannot be used to draw inferences about the causal relationships between and among the variables.                    |
